@@ -7,10 +7,10 @@
 
 - 📫 How to reach me **dsrnjhszz@gmail.com**
 
-- 🌍 I speak Ukrainian (native), English (B2)
+- 🌍 I speak Ukrainian (native), English (B2), Russian (native)
 
 
-### 🧑‍💻 This week I spent my time on
+### 🧑‍💻 This week I spent my time on...
 <!--START_SECTION:waka-->
 
 ```txt
