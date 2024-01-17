@@ -3,7 +3,7 @@
 
 -    I am a student of KPI
 
-- 🌱 I’m currently learning **Java, python, web**
+- 🌱 I’m currently learning **Java, python, web, UE5**
 
 - 📫 How to reach me **dsrnjhszz@gmail.com**
 
