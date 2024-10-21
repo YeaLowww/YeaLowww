@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeaLowww&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YeaLow&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YeaLowww&icon=0&color=13)](https://visitcount.itsvg.in)
