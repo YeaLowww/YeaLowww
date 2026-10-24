@@ -1,7 +1,7 @@
 
 # 💫 About Me
 
-🎮 Manual QA Engineer with 2 years of experience in mobile game testing  
+🎮 QA Engineer with 2 years of experience in mobile game testing  
 🧪 Experienced in manual testing, regression testing, bug reporting, and gameplay validation  
 🐍 Exploring test automation with Python and Android Debug Bridge (ADB)  
 💻 Background in Computer Science and software development  
